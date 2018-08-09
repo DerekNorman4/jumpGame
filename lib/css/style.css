@@ -1,3 +1,26 @@
 html{
     background-color: silver;
+    background-image: url("http://i.imgur.com/k9RynUE.png");
+    background-size: cover;
+    display: flex;
+    width:auto;
+    overflow: hidden;
+}
+
+
+#game {
+    margin-left: 30vw;
+    margin-top: 5px;   
+    border: 10px dotted orange;
+    margin-bottom: 0
+}
+
+h1{
+    font-size: 30px;
+    color:powderblue;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 0;   
+    margin-bottom: 0;
+    text-align: center
+
 }
